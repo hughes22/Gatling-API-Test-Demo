@@ -1,0 +1,10 @@
+{
+  "simulation": "api.APIDemo",
+  "simulationId": "apidemo",
+  "start": 1722427956419,
+  "description": "test run",
+  "scenarios": ["Get API demo", "Post API demo", "Put API demo", "Delete API demo"],
+  "assertions": [
+
+  ]
+}
